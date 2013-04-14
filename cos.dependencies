@@ -25,8 +25,8 @@
   },
   {
     "project": "ChameleonOS",
-    "repository": "android_vendor_samsung_d2mtr",
-    "target_path": "vendor/samsung/d2mtr",
+    "repository": "android_vendor_samsung_d2r530",
+    "target_path": "vendor/samsung/d2r530",
     "branch": "jellybean-mr1"
   },
   {
